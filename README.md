@@ -88,4 +88,4 @@ Built a NumPy-based student performance analyzer for 50 students across 5 subjec
 
 ## Author
 
-Add your name here.
+Chahit Chhajlani
